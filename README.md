@@ -15,5 +15,8 @@ and node-inspector in another shell `node-inspector`
 
 open the link which comes in node-inspector in chrome browser and see the app crashing with segmentation fault.
 
-# Fix
+## Update
+The issue has been resolved with the new version of node version 5.6.0. 
+
+## Fix
 Use node version 4.2.4 `sudo n 4.2.4`
